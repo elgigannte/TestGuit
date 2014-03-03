@@ -1,15 +1,17 @@
 #STYLE DE CODIFICATION DE L'EQUIPE 102
 ###Tous les membres de l'équipe doivent suivre ces règles.
 
-####*LANGUE DE CODIFICATION:*  la langue utilisée pour le nommage des variables, des classes, des packages, 
-des fonctions est le français.
+####*LANGUE DE CODIFICATION:*  
+la langue utilisée pour le nommage des variables, des classes, des packages, des fonctions est le français.
 
-####camelCase pour les variables et les méthodes: Pour le nommage des variables, nous utilisons 
-le style camelCase.
+####*camelCase pour les variables et les méthodes:*
+Pour le nommage des variables, nous utilisons le style camelCase.
 
-####*SNAKE_CASE* pour les constantes: Pour le nommage des constantes, nous utilisons le style SNAKE_CASE.
+####*SNAKE_CASE pour les constantes:*
+Pour le nommage des constantes, nous utilisons le style SNAKE_CASE.
 
-####*PascalCase* pour les classes: Pour le nommage des classes, nous utilisons le style PascalCase.
+####*PascalCase pour les classes:*
+Pour le nommage des classes, nous utilisons le style PascalCase.
 
 ####*LISIBILITE DU CODE:* Pour assurer la lisibilité du code, nous devons :
  - Placer un espace après et avant tous les opérateurs à l'exception de l'opérateur " ! ".
