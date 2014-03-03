@@ -9,5 +9,7 @@
  * @author elgigannte
  */
 public class MaClasse {
-    
+    System.out.println("ken");
 }
+    
+
