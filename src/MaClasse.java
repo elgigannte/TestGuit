@@ -9,7 +9,9 @@
  * @author elgigannte
  */
 public class MaClasse {
-    System.out.println("ken");
+    String nom;
+    int age;
+    boolean etudiant= true;
 }
     
 
