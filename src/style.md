@@ -1,7 +1,7 @@
 #STYLE DE CODIFICATION DE L'EQUIPE 102
 ###Tous les membres de l'équipe doivent suivre ces règles.
 
-##LANGUE DE CODIFICATION:*  la langue utilisée pour le nommage des variables, des classes, des packages, 
+##*LANGUE DE CODIFICATION:*  la langue utilisée pour le nommage des variables, des classes, des packages, 
 des fonctions est le français.
 
 ##camelCase pour les variables et les méthodes: Pour le nommage des variables, nous utilisons 
